@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txt_Metin.Text" xml:space="preserve">
+    <value>Sefiller sefiller kitabının özeti aşağıda detaylı bir şekilde verilmiştir. Kitap, 5 ciltten oluştuğu için özeti uzundur.
+
+Jan Valjean, sadece bir somun ekmek çaldığı için kürek cezasına çarptırılır. Ancak birkaç kez kaçmaya çalıştığı için cezası on dokuz yıla çıkarılmıştır. 1815'te serbest bırakılır fakat hapisten çıktıktan sonra inancını kaybeden, topluma öfke ve kin besleyen biri haline gelmiştir. Sefil bir şekilde "D" kasabasına gider. Kasabanın piskoposu ona iyilik gösterir ve böylece Jan Valjean’ın ruhu aydınlanır.
+
+Jan Valjean yıllar sonra kendine böylesine güzel davranıldığı için çok mutlu olur. Fakat Jan Valjean, bu güzel davranışa rağmen kendine engel olamayıp piskoposun gümüş yemek takımlarını çalar. Polis Jan Valjean’ı yakalar ve onu piskoposun karşısına çıkarır. Ancak Piskopos güzel davranışından ödün vermeyerek yemek takımlarını kendisinin hediye ettiğini söyler. Hatta polisin yanında "Şamdanları unutmuşsun" diyerek Jan Valjean’ı kurtarır.
+
+Jan Valjean, piskopostan özür diler ve hayatına dürüst ve erdemli bir insan olarak devam etmeye karar verir. Geçimini sağlamak için Fransa'nın kuzeyinde ucuz mücevher üretimi yapmaya başlar. Burada geçmişini gizler, kısa sürede zengin olmayı başarır ve hatta kasabada herkesin sevgisini kazandığı için belediye başkanı seçilir.
+
+Ancak Jan Valjean'ın geçmişi hakkında şüpheler ortaya çıkar. Polis Javert, bir hırsızlık olayından hareketle araştırma yapar. Polisin araştırdığı konu, "D" kasabasındaki hırsızlık olayına kadar gelir. Jan Valjean yerine aynı isimde olan başka biri tutuklanır.
+
+Bunun üzerine polis Javert, hata yaptığından dolayı Jan Valjean'dan özür dileyip istifa etmek ister. Polisin istifası kabul edilmez ve konu kapanır. Ancak Valjean, kendisi yerine bir başka kişinin hapse atılmasını kendi ahlakına uygun bulmaz. Bu yüzden hapishaneye girer ve yalnızca bir gece kaldıktan sonra hapishaneden kaçar.
+
+Jan Valjean özverili bir şekilde çalışarak kazandığı parayı biriktirir ve teslim olmadan önce yanında götürür. Eski bir fahişe olan Fantina'nın ölümünden sonra kötü koşullarda yetişen Fantina'nın kızı Cosette'i bulur. Valjean, Cosette’i de yanına alır ve bir manastıra sığınırlar. Jan Valjean, manastırda bahçıvanlık yaparken evlat edindiği Cosette rahibe okuluna başlar. Polis müfettişi Javert'ten kaçmayı başaran Jan Valjean, güvenli bir şekilde hayatını sürdürmektedir.
+
+Seneler sessiz sedasız geçerken Cosette genç bir kadın haline gelir ve öğrenci Marius'a aşık olur. Marius, babası Napolyon ordusunda subaylık yapmış birinin oğludur ve zengin dedesi tarafından yetiştirilmiştir. O da Jan Valjean gibi haklıdan yana olan sosyalistlerin tarafını tutar ve 1832'deki başarısız Paris ayaklanmasına katılır.
+
+Cosette ve Marius, Paris'te bulunan Luxemburg Gardens adlı bir parkta tanışır ve Jan Valjean kendini gizli tutmasına karşın gizlice mektuplaşırlar. Paris ayaklanırken sosyalistler isyan ederler. Marius ve arkadaşları da isyana katılırlar. Jan Valjean da aralarındadır. Paris kanlı bir şekilde yıkılırken Javert ile Jan Valjean yine karşı karşıya gelirler. Jan Valjean, Javert'i ve Marius'u ölümden kurtarır. Javert, Valjean'ı tutuklamaz ve Jan Valjean, Javert'i öldürmeye kalkmaz. Ancak bu asil davranış karşısında inandığı tüm değerlerin sarsıldığını gören Javert, ilk kez bir hükümlünün kanuna saygıda kusur etmeyen bir vatandaştan daha iyi bir insan olabileceğini düşünmeye başlar. Polis memuru olarak sahte ihtimallere göre iş yaptığına karar verir. Valjean'ı tutuklamak yerine kendini öldürür.
+
+
+Başkaldıranların durumu parlak değildir. Yaralanan Marius’un durumu ağırdır ve Valjean onu yer altı kanalizasyonları vasıtasıyla kurtarır. Marius’u büyükbabasının evine götürür fakat kendisini kurtaran kişiyi tanımaz.
+
+Valjean, Cosette'in Marius'u sevdiğini ve onunla evlenmek istediğini anlayarak aralarına girmemeye karar verir. Cosette'in eski bir mahkumun kızı olarak tanınmaması için ona büyük bir miktar para verir ve bir barones olarak yalnız yaşamasına izin verir.
+
+Ancak Marius, hayatını Valjean’a borçlu olduğunu öğrenir. Bu yüzden Valjean'ın ölüm yatağında son anlarını yaşadığı zaman Cosette ile onu ziyaret ederler. Bu karşılaşmada, herkes duygusal anlar yaşar. Valjean, ölüm yatağında bile Cosette ve Marius'un mutlu olması için dua eder ve yıllar önce piskoposun kendisine hediye ettiği gümüş şamdanları Cosette'e verir.
+
+
+Antartika
+Antartika’da uzun kutup gecesi güneşin ufuktan yükselmesiyle biter ve altı ay sürecek gündüz başlar. Çok geçmeden smokinlerini giymiş penguen sürüleri, kısa bacakları üzerinde hoplayarak ilerlemeye başlar. Önlerinde yürümeleri gereken yüzlerce kilometre buzlu yol vardır. Ve onlar 1 adımda yalnızca 10 cm ilerleyebilir. Ama dakikada 120 adım atarlar. Yürümekten yorulunca da beyaz göğüsleri üzerine yatıp bacaklarını bir kürek gibi kullanarak kızaklar kayar gibi yol alırlar. Hedeşerine varınca bir çukur kazarlar. Çevresine taştan bir duvarcık çevirirler ve çukurun içine girerek beklemeye başlarlar. Bekledikleri güneşin kendilerine erkek ya da dişi olduklarını bildirmesidir.
+
+O zamana dek cinsiyetlerinden haberleri yoktur. Güneş ışığı, cinsiyet bezlerini harekete geçirir. Ve hormonlardan biri daha fazla salgılanmaya başlar. Cinsiyetlerinin ne olduğunu ancak o zaman anlarlar. Eğer dişiyse çukurda kalır, ama erkekse yapacak çok işi vardır. Penguen geleneklerine göre, gagasına bir taş alarak törenle dişinin önüne koyar. Oralarda taş çok nadir olduğundan bundan daha mükemmel bir düğün armağanı yoktur. Dişi taşı kaldırır ve eğilip kalkarsa yanıt olumludur. Taş olduğu yerde kalırsa erkek penguen başka bir dişi arar. Bazen iki erkeğin aynı dişiye göz koydukları olur. Bu durumda taşları bir kenara bırakıp birbirlerinin üzerine atılırlar. Kanatlarıyla birbirlerine dakikada tam 200 tokat atarlar. Arada durup dinlenme kuralı da olan dövüş, taraşardan biri yorulup çekilinceye dek sürer. Bu dövüşlerde yaşamını yitiren olmamıştır.
+
+Erkeklerle dişi birbirini bulduktan sonra yorulmak bilmeden taş biriktirme işine başlarlar. ‹şin kolayını seçen penguenler komşularının taş kümelerinden taş çalarlar. Yakalanınca da kendilerini savunmaya gerek görmeden cezalarını çekerler. Güneş ışınları penguenleri daha çok ısıtmaya başlayınca çiftler saatlerce karşılıklı olarak eğilip kalkarlar. Kimileri ise başlarını sağa sola döndürüp kendilerini beğendirmeye çalışırlar. Dişi yumurtladıktan sonra yuvadan ayrılamaz. Çünkü iri martılar yumurta ve yavrular için büyük bir tehlikedir. Kuluçka, süresince anne ve baba yemek bile yemezler. Ancak yavrular çıktıktan sonra baba penguen balık tutmaya gidebilir. Yürüyemeyecek duruma gelene dek midesini doldurur. Yuvada gagasını ardına dek açarak yavruları besler.
+
+Yavrular on dört günlük olunca çocuk bahçesine gönderilirler.Yirmi kadar nine ve dede penguen burada 120 çiftin yavrularının bakımını üstlenmişlerdir. Anne ve baba penugenler yiyecek bulurlar ve ayrım yapmaksızın tüm yavruları beslerler. Yüzmek penguenlerin en büyük zevklerinden biridir. Penguenler yüzmeyi bu denli sevseler de hiçbiri denize ilk giren olmak istemez. Yüzlercesi kıyıya toplanır kanat çırparak birbirlerini suya itmeye çalışırlar. Bu kaygının nedeni fok balıklarıdır. Yavru penguenler yeterince büyüyünce yüzme dersleri almaya başlarlar. Bu iş yine nine ve dedelere düşer. Bir sürü yavruyu yanlarına alarak deniz kenarına götürür ve yüzme sanatının inceliklerini bir bir öğretirler.
+
+Mart ayı gelinceye dek, yüzmeyi, dalmayı, balık tutmayı, yürümeyi kısacası bir penguenin bilmesi gereken herşeyi öğrenmiş olurlar.
+
+Yukarıda okuduğunuz metin Bütün Dünya adlı dergiden alınmış bilimsel bir metindir.Yukarıdaki metinde penguenlerin yaşadıkları doğal ortam tanıtılmakta, onların yaşamı, göçleri ve üremeleri ile ilgili bilgiler verilmektedir. Anlatımda açık, anlaşılır ve yalın bir dil kullanılmıştır.
+
+Kaynak: https://bilimsel-metin-ornekleri.nedir.org/</value>
+  </data>
+</root>
